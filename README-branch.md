@@ -24,10 +24,10 @@
 2. Configuration Management
         
         Implement a configuration manager to handle:
-        Environment-specific properties (dev, qa, prod)
-        API base URLs
-        Authentication credentials
-        Timeouts and retry policies
+                Environment-specific properties (dev, qa, prod)
+                API base URLs
+                Authentication credentials
+                Timeouts and retry policies
         Use property files for different environments
         Implement secure credential management
 
@@ -35,10 +35,10 @@
 
 3. API Layer Improvements
         Create an ApiClient class to handle:
-        Common headers
-        Authentication
-        Request/response logging
-        Retry mechanisms
+                Common headers
+                Authentication
+                Request/response logging
+                Retry mechanisms
         Implement request/response models using POJOs
         Add request/response interceptors
         Implement proper error handling
@@ -59,9 +59,9 @@
             Screenshot capture
             Video recording
         Add custom annotations for:
-        Test categories
-        Test priorities
-        Test dependencies
+                Test categories
+                Test priorities
+                Test dependencies
         Implement parallel test execution support
 
 
